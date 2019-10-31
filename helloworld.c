@@ -2,7 +2,7 @@
 int main()
 {
    // printf() displays the string inside quotation
-   // test git
+   // add commit
    printf("Hello, World!");
    return 0;
 }
