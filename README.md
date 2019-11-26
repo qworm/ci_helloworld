@@ -1,2 +1,2 @@
 # ci_helloworld
-1st embedded ci project
+1st embedded ci projects
