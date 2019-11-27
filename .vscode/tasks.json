@@ -16,7 +16,7 @@
         "args": [
           "-g",
           "-o",
-          "/workspaces/ci_helloworld/helloworld.out",
+          "./helloworld.out",
           "helloworld.cpp"
         ],
         "group": {

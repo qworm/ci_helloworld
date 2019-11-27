@@ -5,10 +5,10 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "/workspaces/ci_helloworld/helloworld.out",
+        "program": "${workspaceRoot}/helloworld.out",
         "args": [""],
         "stopAtEntry": true,
-        "cwd": "/workspaces/ci_helloworld/",
+        "cwd": "${workspaceRoot}",
         "environment": [],
         "externalConsole": false,
         "linux": {
